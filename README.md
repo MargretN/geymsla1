@@ -6,7 +6,7 @@ Texti
     1. [Óraðaður listi](#óraðaður-listi)
     1. [Raðaður listi](#raðaður-listi)
 1. [Fin tafla](#bibble)
-1. [Annad](#linkar-kóði-og-rest)
+1. [Annað](#linkar-kóði-og-rest)
 ## Tilvísun
 
 ## Bibble
@@ -19,10 +19,10 @@ Texti
 
 - item 1
 - item 2
-    -subitem 1
-    -subitem 2
-        -subsubitem 1
--item 3 
+    - subitem 1
+    - subitem 2
+        - subsubitem 1 
+- item 3 
 ### raðaður listi
 1. item 1
 1. item 2
@@ -49,6 +49,13 @@ Void setup() {
 }
 ```
 
+```mermaid
+    graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 <!--**Texti, *annar* \*texti**
 -->
 *Skaletrad* 
