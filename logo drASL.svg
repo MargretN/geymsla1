@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2170"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo drASL.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2172"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7198092"
+     inkscape:cx="488.32385"
+     inkscape:cy="586.9611"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2167">
+    <rect
+       x="543.1995"
+       y="302.85803"
+       width="222.28113"
+       height="44.456225"
+       id="rect12930" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12928"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect12930)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:#000000"
+       id="path16388"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="300.07953"
+       sodipodi:cy="123.64388"
+       sodipodi:r1="316.43359"
+       sodipodi:r2="158.2168"
+       sodipodi:arg1="1.2768164"
+       sodipodi:arg2="1.9051349"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 391.77049,426.50191 248.16157,273.09983 40.378493,304.43545 141.89494,120.45139 47.884496,-67.478812 254.23404,-27.785131 403.91546,-175.26801 429.93004,33.248094 616.4487,130.02887 426.17705,219.20523 Z"
+       transform="matrix(0.27796135,0,0,0.2708809,9.0291264,55.872327)"
+       inkscape:transform-center-x="-7.875774"
+       inkscape:transform-center-y="0.53446632" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000"
+       id="path16778"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="294.52249"
+       sodipodi:cy="240.34148"
+       sodipodi:r1="92.362083"
+       sodipodi:r2="46.181046"
+       sodipodi:arg1="1.4501727"
+       sodipodi:arg2="2.0784912"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 305.63654,332.03244 -33.56562,-51.33485 -61.31728,-1.45196 38.44999,-47.78614 -17.56719,-58.76488 57.32902,21.80138 50.46017,-34.86673 -3.01871,61.26014 48.75329,37.21605 -59.19469,16.05946 z"
+       transform="matrix(0.52715842,0,0,0.50246825,-63.9117,-35.154459)"
+       inkscape:transform-center-x="-1.8104884"
+       inkscape:transform-center-y="2.7582323" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.1193px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.327984"
+       x="75.226311"
+       y="77.490295"
+       id="text10760"
+       transform="scale(0.88173554,1.1341269)"><tspan
+         sodipodi:role="line"
+         id="tspan10758"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text Italic';stroke-width:0.327984"
+         x="75.226311"
+         y="77.490295">Star power</tspan></text>
+  </g>
+</svg>
